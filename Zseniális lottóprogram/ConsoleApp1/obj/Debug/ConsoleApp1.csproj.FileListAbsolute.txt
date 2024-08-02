@@ -1,0 +1,21 @@
+c:\users\tanulo336\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\tanulo336\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\tanulo336\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\tanulo336\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\tanulo336\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\users\tanulo336\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\tanulo336\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Zseniális lottóprogram\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Zseniális lottóprogram\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Zseniális lottóprogram\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Zseniális lottóprogram\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Zseniális lottóprogram\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Zseniális lottóprogram\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Zseniális lottóprogram\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
